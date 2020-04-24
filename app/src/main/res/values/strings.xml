@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project1_Slots</string>
+    <string name="play_cost">$1 a Play</string>
+    <string name="match_cost">Match 0 - lose $1\nMatch 2 - win $2\nMatch 3 - win $3</string>
+    <string name="starting_money">5</string>
+</resources>
